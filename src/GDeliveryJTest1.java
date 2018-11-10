@@ -6,7 +6,7 @@ class GDeliveryJTest1 {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		fail("Not yet this is for testing");
 	}
 
 }
