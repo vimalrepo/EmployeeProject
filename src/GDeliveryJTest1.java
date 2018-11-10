@@ -6,7 +6,7 @@ class GDeliveryJTest1 {
 
 	@Test
 	void test() {
-		fail("Not yet this is for next testing");
+		fail("Not yet this is for another type of testing");
 	}
 
 }
